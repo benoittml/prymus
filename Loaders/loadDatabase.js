@@ -6,7 +6,7 @@ module.exports = async () => {
         host: "localhost",
         user: "root",
         password: "",
-        database: "prymus"
+        database: "nomdeladatabase"
       })
   
     return db;

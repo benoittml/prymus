@@ -13,7 +13,7 @@ Prymus est un bot Discord créé avec Discord.js pour ajouter des fonctionnalit�
 1. **Cloner le dépôt** :
 
    ```bash
-   git clone https://github.com/votre-utilisateur/prymus-discord-bot.git
+   git clone https://github.com/benoittml/prymus.git
    cd prymus-discord-bot
    ```
 

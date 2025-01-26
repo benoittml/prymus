@@ -34,10 +34,10 @@ Prymus est un bot Discord créé avec Discord.js pour ajouter des fonctionnalit�
 
    ```
 
-   Pour configurer votre base de donnée et la synchroniser avec le bot, il faut se rendre dans `./Loaders/loadDatabase.js` et modifier les informations :
+3-1. **Configurer la base de donnée**, il faut se rendre dans `./Loaders/loadDatabase.js` et modifier les informations :
 
       ```env
-   host: "localhost",
+        host: "localhost",
         user: "root",
         password: "",
         database: "nomdeladatabase"

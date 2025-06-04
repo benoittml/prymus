@@ -7,6 +7,7 @@ Prymus est un bot Discord créé avec Discord.js pour ajouter des fonctionnalit�
 - Gestion de commandes simples et avancées.
 - Interaction avec les membres du serveur.
 - Personnalisation facile via les fichiers de configuration.
+- Nouvelles commandes `serverinfo` et `userinfo` pour obtenir des informations détaillées.
 
 ## Installation
 
